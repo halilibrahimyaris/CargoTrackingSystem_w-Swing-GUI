@@ -1,0 +1,286 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Form version="1.3" maxVersion="1.9" type="org.netbeans.modules.form.forminfo.JFrameFormInfo">
+  <NonVisualComponents>
+    <Component class="javax.swing.ButtonGroup" name="btnTeslim">
+    </Component>
+    <Component class="javax.swing.ButtonGroup" name="groupT&#xfc;r">
+    </Component>
+  </NonVisualComponents>
+  <Properties>
+    <Property name="defaultCloseOperation" type="int" value="3"/>
+  </Properties>
+  <SyntheticProperties>
+    <SyntheticProperty name="formSizePolicy" type="int" value="1"/>
+    <SyntheticProperty name="generateCenter" type="boolean" value="false"/>
+  </SyntheticProperties>
+  <AuxValues>
+    <AuxValue name="FormSettings_autoResourcing" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_autoSetComponentName" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_generateFQN" type="java.lang.Boolean" value="true"/>
+    <AuxValue name="FormSettings_generateMnemonicsCode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_i18nAutoMode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_layoutCodeTarget" type="java.lang.Integer" value="1"/>
+    <AuxValue name="FormSettings_listenerGenerationStyle" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_variablesLocal" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_variablesModifier" type="java.lang.Integer" value="2"/>
+  </AuxValues>
+
+  <Layout>
+    <DimensionLayout dim="0">
+      <Group type="103" groupAlignment="0" attributes="0">
+          <Group type="102" alignment="1" attributes="0">
+              <EmptySpace pref="80" max="32767" attributes="0"/>
+              <Group type="103" groupAlignment="0" attributes="0">
+                  <Component id="jLabel4" alignment="0" min="-2" pref="134" max="-2" attributes="0"/>
+                  <Component id="jLabel6" alignment="0" min="-2" pref="119" max="-2" attributes="0"/>
+                  <Component id="jLabel7" alignment="0" min="-2" pref="112" max="-2" attributes="0"/>
+                  <Component id="jLabel5" alignment="0" min="-2" pref="112" max="-2" attributes="0"/>
+                  <Group type="102" alignment="0" attributes="0">
+                      <Group type="103" groupAlignment="0" attributes="0">
+                          <Component id="en" alignment="0" min="-2" pref="112" max="-2" attributes="0"/>
+                          <Component id="btnGüniçi" alignment="0" min="-2" max="-2" attributes="0"/>
+                          <Component id="btnAdrestenAl" alignment="0" min="-2" max="-2" attributes="0"/>
+                          <Component id="HassasKargo" alignment="0" min="-2" max="-2" attributes="0"/>
+                      </Group>
+                      <Group type="103" groupAlignment="0" attributes="0">
+                          <Group type="102" alignment="0" attributes="0">
+                              <EmptySpace min="-2" pref="128" max="-2" attributes="0"/>
+                              <Group type="103" groupAlignment="0" attributes="0">
+                                  <Component id="btnMesaj" alignment="0" min="-2" max="-2" attributes="0"/>
+                                  <Group type="102" alignment="0" attributes="0">
+                                      <Group type="103" groupAlignment="0" attributes="0">
+                                          <Component id="boy" alignment="0" min="-2" pref="104" max="-2" attributes="0"/>
+                                          <Component id="btnÖncelik" alignment="0" min="-2" max="-2" attributes="0"/>
+                                      </Group>
+                                      <EmptySpace min="-2" pref="135" max="-2" attributes="0"/>
+                                      <Group type="103" groupAlignment="0" attributes="0">
+                                          <Component id="yükseklik" alignment="0" min="-2" pref="115" max="-2" attributes="0"/>
+                                          <Component id="btnAkşam" alignment="0" min="-2" max="-2" attributes="0"/>
+                                      </Group>
+                                      <EmptySpace min="-2" pref="143" max="-2" attributes="0"/>
+                                      <Group type="103" groupAlignment="0" attributes="0">
+                                          <Component id="btnStrandart" alignment="0" min="-2" max="-2" attributes="0"/>
+                                          <Component id="agırlık" alignment="0" min="-2" pref="125" max="-2" attributes="0"/>
+                                      </Group>
+                                  </Group>
+                                  <Group type="102" alignment="0" attributes="0">
+                                      <Component id="göndericiyeMesaj" min="-2" max="-2" attributes="0"/>
+                                      <EmptySpace max="-2" attributes="0"/>
+                                      <Component id="AlıcıyaMesaj" min="-2" max="-2" attributes="0"/>
+                                  </Group>
+                              </Group>
+                          </Group>
+                          <Group type="102" alignment="0" attributes="0">
+                              <EmptySpace min="-2" pref="124" max="-2" attributes="0"/>
+                              <Component id="NormalKargo" min="-2" pref="129" max="-2" attributes="0"/>
+                          </Group>
+                      </Group>
+                  </Group>
+                  <Group type="102" alignment="0" attributes="0">
+                      <EmptySpace min="-2" pref="152" max="-2" attributes="0"/>
+                      <Component id="ücretiHesapla" min="-2" max="-2" attributes="0"/>
+                  </Group>
+              </Group>
+              <EmptySpace min="-2" pref="25" max="-2" attributes="0"/>
+          </Group>
+      </Group>
+    </DimensionLayout>
+    <DimensionLayout dim="1">
+      <Group type="103" groupAlignment="0" attributes="0">
+          <Group type="102" alignment="0" attributes="0">
+              <EmptySpace min="-2" pref="36" max="-2" attributes="0"/>
+              <Component id="jLabel4" min="-2" pref="30" max="-2" attributes="0"/>
+              <EmptySpace max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="3" attributes="0">
+                  <Component id="HassasKargo" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="NormalKargo" alignment="3" min="-2" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace max="-2" attributes="0"/>
+              <Component id="jLabel5" min="-2" pref="30" max="-2" attributes="0"/>
+              <EmptySpace type="separate" max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="3" attributes="0">
+                  <Component id="en" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="boy" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="yükseklik" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="agırlık" alignment="3" min="-2" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace min="-2" pref="33" max="-2" attributes="0"/>
+              <Component id="jLabel7" min="-2" pref="27" max="-2" attributes="0"/>
+              <EmptySpace type="unrelated" max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="3" attributes="0">
+                  <Component id="btnGüniçi" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="btnÖncelik" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="btnAkşam" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="btnStrandart" alignment="3" min="-2" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace min="-2" pref="26" max="-2" attributes="0"/>
+              <Component id="jLabel6" min="-2" pref="24" max="-2" attributes="0"/>
+              <EmptySpace type="unrelated" max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="3" attributes="0">
+                  <Component id="btnAdrestenAl" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="btnMesaj" alignment="3" min="-2" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace type="unrelated" max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="3" attributes="0">
+                  <Component id="göndericiyeMesaj" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="AlıcıyaMesaj" alignment="3" min="-2" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace type="separate" max="-2" attributes="0"/>
+              <Component id="ücretiHesapla" min="-2" max="-2" attributes="0"/>
+              <EmptySpace pref="112" max="32767" attributes="0"/>
+          </Group>
+      </Group>
+    </DimensionLayout>
+  </Layout>
+  <SubComponents>
+    <Component class="javax.swing.JRadioButton" name="btnG&#xfc;ni&#xe7;i">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="G&#xfc;ni&#xe7;i Teslimat"/>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="btnG&#xfc;ni&#xe7;iActionPerformed"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JRadioButton" name="NormalKargo">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Normal G&#xf6;nderi"/>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="NormalKargoActionPerformed"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JRadioButton" name="btn&#xd6;ncelik">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="&#xd6;ncelikli  Teslimat"/>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="btn&#xd6;ncelikActionPerformed"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JLabel" name="jLabel5">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Hacim Hesapla"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JRadioButton" name="btnAk&#x15f;am">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Ak&#x15f;am Teslimat"/>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="btnAk&#x15f;amActionPerformed"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JTextField" name="en">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="En"/>
+      </Properties>
+      <Events>
+        <EventHandler event="mouseClicked" listener="java.awt.event.MouseListener" parameters="java.awt.event.MouseEvent" handler="enMouseClicked"/>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="enActionPerformed"/>
+        <EventHandler event="keyTyped" listener="java.awt.event.KeyListener" parameters="java.awt.event.KeyEvent" handler="enKeyTyped"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JRadioButton" name="btnStrandart">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Standart"/>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="btnStrandartActionPerformed"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JTextField" name="boy">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Boy"/>
+      </Properties>
+      <Events>
+        <EventHandler event="mouseClicked" listener="java.awt.event.MouseListener" parameters="java.awt.event.MouseEvent" handler="boyMouseClicked"/>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="boyActionPerformed"/>
+        <EventHandler event="keyTyped" listener="java.awt.event.KeyListener" parameters="java.awt.event.KeyEvent" handler="boyKeyTyped"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JLabel" name="jLabel6">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Ek hizmet"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JTextField" name="y&#xfc;kseklik">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Y&#xfc;kseklik"/>
+      </Properties>
+      <Events>
+        <EventHandler event="mouseClicked" listener="java.awt.event.MouseListener" parameters="java.awt.event.MouseEvent" handler="y&#xfc;kseklikMouseClicked"/>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="y&#xfc;kseklikActionPerformed"/>
+        <EventHandler event="keyTyped" listener="java.awt.event.KeyListener" parameters="java.awt.event.KeyEvent" handler="y&#xfc;kseklikKeyTyped"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JRadioButton" name="btnAdrestenAl">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Adresten Al&#x131;m"/>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="btnAdrestenAlActionPerformed"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JTextField" name="ag&#x131;rl&#x131;k">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="A&#x11f;&#x131;rl&#x131;k"/>
+      </Properties>
+      <Events>
+        <EventHandler event="mouseClicked" listener="java.awt.event.MouseListener" parameters="java.awt.event.MouseEvent" handler="ag&#x131;rl&#x131;kMouseClicked"/>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="ag&#x131;rl&#x131;kActionPerformed"/>
+        <EventHandler event="keyTyped" listener="java.awt.event.KeyListener" parameters="java.awt.event.KeyEvent" handler="ag&#x131;rl&#x131;kKeyTyped"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JRadioButton" name="btnMesaj">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Mesaj"/>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="btnMesajActionPerformed"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JButton" name="&#xfc;cretiHesapla">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="&#xdc;creti Hesapla"/>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="&#xfc;cretiHesaplaActionPerformed"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JCheckBox" name="g&#xf6;ndericiyeMesaj">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="G&#xf6;dericiye SMS"/>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="g&#xf6;ndericiyeMesajActionPerformed"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JLabel" name="jLabel7">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Teslim Zaman&#x131;"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JCheckBox" name="Al&#x131;c&#x131;yaMesaj">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Al&#x131;c&#x131;ya SMS"/>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="Al&#x131;c&#x131;yaMesajActionPerformed"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JLabel" name="jLabel4">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="G&#xf6;nderi T&#xfc;r&#xfc;"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JRadioButton" name="HassasKargo">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Hassas Kargo"/>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="HassasKargoActionPerformed"/>
+      </Events>
+    </Component>
+  </SubComponents>
+</Form>
